@@ -25,7 +25,6 @@ Once you have that, run this command in the directory
 Run the submodule command to get the linked git repos (for hashing)
 ```
 npm install
-git submodule update --init --recursive
 ```
 
 To start the controller
